@@ -1,4 +1,4 @@
 *-tmp
 .venv/
 __pycache__/
-.tytest_cache/
+.pytest_cache/
